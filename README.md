@@ -1,6 +1,6 @@
 # Grouping Selectors Assignment
 
-# In this assignment, I focused on utilizing CSS class selectors and grouping selectors to style two elements in an HTML file. The goal was to apply shared and unique styles to these elements by using a combination of CSS properties, class names, and grouping selectors. By doing so, we learned how to efficiently apply styles to multiple elements without repetition.
+In this assignment, I focused on utilizing CSS class selectors and grouping selectors to style two elements in an HTML file. The goal was to apply shared and unique styles to these elements by using a combination of CSS properties, class names, and grouping selectors. By doing so, we learned how to efficiently apply styles to multiple elements without repetition.
 Objective
 
 # The objective of this exercise was to:
